@@ -1,0 +1,210 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Nav Component Nav will render 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <nav
+        class="navbar navbar-expand-lg navbar-light bg-success"
+      >
+        <button
+          aria-controls="navbarTogglerDemo01"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+          class="navbar-toggler"
+          data-target="#navbarTogglerDemo01"
+          data-toggle="collapse"
+          type="button"
+        >
+          <span
+            class="navbar-toggler-icon"
+          />
+        </button>
+        <div
+          class="collapse navbar-collapse"
+          id="navbarTogglerDemo01"
+        >
+          <ul
+            class="navbar-nav mr-auto mt-2 mt-lg-0"
+          >
+            <li
+              class="nav-item"
+            >
+              <a
+                class="nav-link font-weight-bold"
+                href="/"
+              >
+                Home
+              </a>
+            </li>
+            <li
+              class="nav-item"
+            >
+              <a
+                class="nav-link font-weight-bold"
+                href="/leaderboard"
+              >
+                Leaderboard
+              </a>
+            </li>
+            <li
+              class="nav-item"
+            >
+              <a
+                class="nav-link font-weight-bold"
+                href="/add"
+              >
+                Regist Poll
+              </a>
+            </li>
+          </ul>
+          <img
+            alt="Avatar of khanhnh11"
+            class="rounded-circle avatar"
+            src="https://png.pngtree.com/png-vector/20190820/ourlarge/pngtree-no-avatar-vector-isolated-on-white-background-png-image_1694546.jpg"
+          />
+          <span
+            class="nav-link"
+            data-testid="user-information"
+            id="user-information"
+          >
+            khanhnh11
+          </span>
+          <button
+            class="btn btn-warning img-fluid"
+          >
+            Logout
+          </button>
+        </div>
+      </nav>
+    </div>
+  </body>,
+  "container": <div>
+    <nav
+      class="navbar navbar-expand-lg navbar-light bg-success"
+    >
+      <button
+        aria-controls="navbarTogglerDemo01"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+        class="navbar-toggler"
+        data-target="#navbarTogglerDemo01"
+        data-toggle="collapse"
+        type="button"
+      >
+        <span
+          class="navbar-toggler-icon"
+        />
+      </button>
+      <div
+        class="collapse navbar-collapse"
+        id="navbarTogglerDemo01"
+      >
+        <ul
+          class="navbar-nav mr-auto mt-2 mt-lg-0"
+        >
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link font-weight-bold"
+              href="/"
+            >
+              Home
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link font-weight-bold"
+              href="/leaderboard"
+            >
+              Leaderboard
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link font-weight-bold"
+              href="/add"
+            >
+              Regist Poll
+            </a>
+          </li>
+        </ul>
+        <img
+          alt="Avatar of khanhnh11"
+          class="rounded-circle avatar"
+          src="https://png.pngtree.com/png-vector/20190820/ourlarge/pngtree-no-avatar-vector-isolated-on-white-background-png-image_1694546.jpg"
+        />
+        <span
+          class="nav-link"
+          data-testid="user-information"
+          id="user-information"
+        >
+          khanhnh11
+        </span>
+        <button
+          class="btn btn-warning img-fluid"
+        >
+          Logout
+        </button>
+      </div>
+    </nav>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
